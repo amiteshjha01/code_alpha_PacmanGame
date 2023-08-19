@@ -14,5 +14,4 @@ Ghosts moving algorithm and AI
 Better design
 Better algorithm for the walls
 Additional levels
-Developed By: Nishit Tated
 Find this project useful? ❤️
